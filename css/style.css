@@ -18,7 +18,7 @@ html, body {
 }
 
 .banner {
-  background: url(../images/1.jpg) no-repeat 0px -66px;
+  background: url(../images/bg/1.jpg) no-repeat 0px -66px;
   background-size: cover;
   padding: 0em 0 11em 0;
 }
@@ -2016,7 +2016,7 @@ button.btn1:hover {
 /*-- responsive --*/
 @media (max-width: 1080px) {
   .banner {
-    background: url(../images/resto.jpg) no-repeat 0px 0px;
+    background: url(../images/bg/1.jpg) no-repeat 0px 0px;
     background-size: cover;
   }
 
@@ -2572,7 +2572,7 @@ button.btn1:hover {
 
 @media (max-width: 320px) {
   .banner {
-    background: url(../images/1.jpg) no-repeat -129px 0px;
+    background: url(../images/bg/1.jpg) no-repeat -129px 0px;
     background-size: cover;
   }
 
