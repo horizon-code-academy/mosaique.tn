@@ -94,10 +94,11 @@ span.menu {
 }
 
 .banner-info h3 {
-  color: #000000;
+  color: #181818;
+  text-shadow: -3px 3px 5px #adaaa1;
   font-size: 4em;
   margin: 0;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
 }
