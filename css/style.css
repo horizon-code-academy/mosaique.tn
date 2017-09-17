@@ -2016,7 +2016,7 @@ button.btn1:hover {
 /*-- responsive --*/
 @media (max-width: 1080px) {
   .banner {
-    background: url(../images/1.jpg) no-repeat 0px 0px;
+    background: url(../images/resto.jpg) no-repeat 0px 0px;
     background-size: cover;
   }
 
@@ -2421,7 +2421,7 @@ button.btn1:hover {
   }
 
   .w3ls-special-img {
-    background: url(../images/sp1.jpg) no-repeat 0px 0px;
+    background: url(/images/resto.jpg) no-repeat 0px 0px;
     min-height: 180px;
     background-size: cover;
   }
